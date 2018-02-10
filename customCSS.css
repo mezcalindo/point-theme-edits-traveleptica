@@ -1,0 +1,59 @@
+h1, h2, h3, h4, h5, h6 {
+    text-transform: none;
+}
+
+.trending-articles li {
+    text-transform: none;
+}
+
+.site-branding h1, .site-branding h2 {
+    text-transform: none;
+}
+
+a.header-button {
+    text-transform: none;
+}
+
+.primary-navigation a {
+    text-transform: none;
+}
+
+.featured-title {
+    text-transform: none;
+}
+
+.featured-cat {
+    text-transform: none;
+}
+
+.widget .title {
+    text-transform: none;
+}
+
+.related-posts h5 {
+    text-transform: none;
+}
+
+.postauthor-top span {
+    text-transform: none;
+}
+
+.footer-navigation a {
+    text-transform: none;
+}
+
+.copyrights {
+    text-transform: none;
+}
+
+.total-comments {
+    text-transform: none;
+}
+
+#commentform input#submit {
+    text-transform: none;
+}
+
+a#pull {
+    text-transform: none;
+}
