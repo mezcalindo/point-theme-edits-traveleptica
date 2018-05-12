@@ -57,3 +57,5 @@ a.header-button {
 a#pull {
     text-transform: none;
 }
+
+.wp-caption-text { text-align: center }
